@@ -1,0 +1,42 @@
+commit 792edae68a69588e3e694c6e9ab78e4db6b9ff05
+Merge: b0effeb fd61e78
+Author: manonbaracca <manonbaracca@gmail.com>
+Date:   Sun Mar 24 20:24:13 2024 -0300
+
+    Resolvi conflicto en nuevo-fichero.py durante fusión de nueva_rama
+
+commit b0effeb931d8789fd13050d226bcc2533cd3eabd
+Author: manonbaracca <manonbaracca@gmail.com>
+Date:   Sun Mar 24 20:19:56 2024 -0300
+
+    Actualize nuevo-fichero.py con nuevos cambios
+
+commit fd61e7806f67e57f6be6013b03fd8cb0ea270498
+Author: manonbaracca <manonbaracca@gmail.com>
+Date:   Sun Mar 24 20:18:33 2024 -0300
+
+    Actualize nuevo-fichero.py con cambios
+
+commit 2ed22a59ff7bc461e05a461abb51221625b76e2e
+Author: manonbaracca <manonbaracca@gmail.com>
+Date:   Sun Mar 24 20:05:10 2024 -0300
+
+    Agregar historial del ejercicio 2
+
+commit 9b80580855fe41e5f9c195a2dd8f8616507d9ab0
+Author: manonbaracca <manonbaracca@gmail.com>
+Date:   Sun Mar 24 19:53:09 2024 -0300
+
+    Añadi historial de ejercicio 1
+
+commit 086064e8c326140e77e53ae7daabb9d93f6e4aa3
+Author: manonbaracca <manonbaracca@gmail.com>
+Date:   Sun Mar 24 19:39:45 2024 -0300
+
+    Cambio del ultimo commit
+
+commit da2407c7a40f76bfd1bf21bb598d66318db2224f
+Author: manonbaracca <manonbaracca@gmail.com>
+Date:   Sun Mar 24 19:37:00 2024 -0300
+
+    Primer commit con mi archivo inicial hola.py
